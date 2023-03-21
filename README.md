@@ -8,6 +8,7 @@ Wikipedia. A prime number (or a prime) is a natural number greater than 1 that i
 
 I came in second place 🏆 in the #SapHanaCloud #MachineLearning #Challenge. 🤖
 I wrote this blog about the challenge and the solution.
+https://blogs.sap.com/2023/01/09/sap-hana-cloud-machine-learning-challenge-i-quit-understanding-metrics/
 
 The classification stuck in my head for a while and then one day the prime number problem popped up. 💡
 
